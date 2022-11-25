@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bagasdisini&label=Profile%20views&color=0e75b6&style=flat" alt="bagasdisini" /> </p>
 
-- 🌱 I’m currently learning Golang and React
-
 - 📚 I’m currently studying Informatics Engineering at Electronic Engineering Polytechnic Institute of Surabaya
 
 - 📫 How to reach me mbagas221@gmail.com
