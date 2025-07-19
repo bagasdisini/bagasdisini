@@ -6,11 +6,11 @@
 <ul>
   <li><strong>Language</strong>: C, Dart, Go, Java, JavaScript, Kotlin, Python, Rust, TypeScript</li>
   <li><strong>Database</strong>: Elasticsearch, MongoDB, MySQL, Oracle, PostgreSQL, Redis</li>
-  <li><strong>Cloud</strong>: AWS, Azure, Cloudflare, GCP</li>
+  <li><strong>Cloud</strong>: AWS, Azure, Cloudflare, Google Cloud Platform</li>
   <li><strong>Framework</strong>: Angular, Echo, Express.js, FastAPI, Gin, Mux, Node.js, React, Vue.js</li>
   <li><strong>Tools</strong>: Docker, Kafka, Kubernetes, RabbitMQ</li>
 </ul>
 
 </br>
 
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasdisini&langs_count=9&size_weight=0.5&count_weight=0.5&hide=css,html,scss,cmake,vue&layout=compact)](https://github.com/bagasdisini/github-readme-stats)
+[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasdisini&langs_count=10&hide=css,html,scss,cmake,vue&layout=compact)](https://github.com/bagasdisini/github-readme-stats)
